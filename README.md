@@ -1,3 +1,3 @@
-2019 Murray's lectures:
+Murray's lectures in Suzhou:
 * FIT5191
 * FIT5192
